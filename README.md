@@ -1,2 +1,2 @@
 # mark-9-movie-recommendation-app
-Created with CodeSandbox
+A web app to recommend movies based on different genres
