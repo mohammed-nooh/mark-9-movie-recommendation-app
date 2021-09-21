@@ -39,3 +39,8 @@ body {
   list-style: none;
   margin: 1rem;
 }
+
+.movieHead {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
